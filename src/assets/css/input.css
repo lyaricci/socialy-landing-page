@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer global {
-  
+
+@font-face {
+  font-family: 'Airbnb';
+  src: url(/src/assets/fonts/AirbnbCereal_bold.otf);
+  font-weight: 700;
 }

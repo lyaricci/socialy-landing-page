@@ -1,9 +1,14 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  mode: 'jit',
+	mode: 'jit',
 	content: ['./src/**/*.html'],
 	theme: {
-		extend: {},
+		extend: {
+			fontFamily: {
+				airbnb: ['Airbnb', 'sans-serif'],
+				inter: ['Inter', 'sans-serif'],
+			},
+		},
 	},
 	plugins: [],
 };
