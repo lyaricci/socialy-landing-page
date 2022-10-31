@@ -5,3 +5,8 @@
 ## Projeto
 
 Landing page criada a partir do design no Figma, retirado do site [UIDesign.to](https://uidesign.to/product/customer-service-website-template-socialy/).
+
+## Tecnologias usadas
+
+HTML <br>
+TailwindCSS
